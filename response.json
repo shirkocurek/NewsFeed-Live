@@ -1,0 +1,166 @@
+{
+  "pagination": {
+    "limit": 25,
+    "offset": 0,
+    "count": 25,
+    "total": 10000
+  },
+  "data": [
+    {
+      "author": "Christopher Lazarus",
+      "category": "sports",
+      "country": "us",
+      "description": "‘The Ring General’ Gunther has pulverized everyone who has stood in his way. And he expects to do the same with The Miz at Survivor Series on 25th November. But even before that match had ended, Gunther expressed that he would love to face another champion any day. Well, the champion in question did not&#8230;The post After LA Knight, Logan Paul Takes a Major Dig at WWE Intercontinental Champion Gunther: “Get in Line” appeared first on EssentiallySports.",
+      "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/gunther-4-560x315.jpg",
+      "language": "en",
+      "published_at": "2023-11-20T01:49:43Z",
+      "source": "Essentially Sports",
+      "title": "After LA Knight, Logan Paul Takes a Major Dig at WWE Intercontinental Champion Gunther: “Get in Line”",
+      "url": "https://www.essentiallysports.com/wwe-news-after-la-knight-logan-paul-takes-a-major-dig-at-wwe-intercontinental-champion-gunther-get-in-line/"
+    },
+    {
+      "author": "James Crowley",
+      "category": "general",
+      "country": "us",
+      "description": "The 'Daisy Jones' star confirmed that she's pregnant with her first child during a Mexico City performance.",
+      "image": "https://hollywoodlife.com/wp-content/uploads/2023/11/robert-pattinson-suki-waterhouse-pregnant-expecting-child-ftr.jpg?quality=100",
+      "language": "en",
+      "published_at": "2023-11-20T01:49:27Z",
+      "source": "hollywoodlife",
+      "title": "Suki Waterhouse Pregnant: ‘Daisy Jones’ Star Expecting First Child With Robert Pattinson",
+      "url": "https://hollywoodlife.com/2023/11/19/suki-waterhouse-pregnant-expecting-first-child-with-robert-pattinson/"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "us",
+      "description": "Joe Flacco is back in the AFC North.",
+      "image": "https://nbcsports.brightspotcdn.com/dims4/default/d952a59/2147483647/strip/false/crop/5721x3218+0+298/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Ff9%2Fab8b91c0487c92788b58d50c6a11%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19671326",
+      "language": "en",
+      "published_at": "2023-11-20T01:48:57Z",
+      "source": "profootballtalk",
+      "title": "Joe Flacco will join Browns' practice squad on Monday",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-will-join-browns-practice-squad-on-monday"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "us",
+      "description": "The YouTube star, 26, made her debut 2,000 miles away from camp during Sunday's launch episode.",
+      "image": "https://i.dailymail.co.uk/1s/2023/11/19/22/77999691-0-image-a-4_1700432557488.jpg",
+      "language": "en",
+      "published_at": "2023-11-20T01:48:21Z",
+      "source": "dailymail",
+      "title": "I'm A Celeb fans ALREADY predict Nella Rose will be crowned queen of the jungle as she makes show debut 2,000 miles away from camp",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-12768465/Im-Celeb-fans-predict-Nella-Rose-crowned-queen-jungle-makes-debut-2-000-miles-away-camp.html?ns_mchannel=rss&ito=1490&ns_campaign=1490"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "us",
+      "description": "The Billboard Music Awards got underway in an unusual online-only ceremony Sunday night, with early winners including Beyoncé, Drake and Coldplay.",
+      "image": "https://cdnph.upi.com/ph/st/th/8021700441622/2023/upi/40ec820e31bae39219dce10964f3929c/v1.5/Billboard-Music-Awards-winners-include-Beyonc-Drake.jpg",
+      "language": "en",
+      "published_at": "2023-11-20T01:48:07Z",
+      "source": "upiasia",
+      "title": "Billboard Music Awards winners include Beyoncé, Drake",
+      "url": "https://www.upi.com/Entertainment_News/Music/2023/11/19/Billboard-Music-Awards-Winners/8021700441622/"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "us",
+      "description": "California Gov. Gavin Newsom announced on Sunday that the 10 Freeway closure in downtown Los Angeles is ahead of schedule and could open sooner than projected.",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/931/523/F-rZwYEaIAAp6j7.jpg?ve=1&tl=1",
+      "language": "en",
+      "published_at": "2023-11-20T01:47:57Z",
+      "source": "FOX News - Video",
+      "title": "California Gov. Gavin Newsom announces 10 Freeway reopening is ahead of schedule",
+      "url": "https://www.foxnews.com/us/california-gov-gavin-newsom-announces-10-freeway-reopening-ahead-schedule"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "us",
+      "description": "The This Morning presenter, 38, couldn't resit but to make a savage remark towards her ex, minutes into her debut on I'm A Celebrity Sunday.",
+      "image": "https://i.dailymail.co.uk/1s/2023/11/19/23/78001461-0-image-a-174_1700435503418.jpg",
+      "language": "en",
+      "published_at": "2023-11-20T01:47:38Z",
+      "source": "dailymail",
+      "title": "I'm A Celeb's Josie Gibson makes a cryptic swipe at her ex minutes into the show: 'Snakes I'm quite good with... I fell in love with enough!'",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-12768605/Im-Celebritys-Josie-Gibson-makes-cryptic-swipe-ex-minutes-Snakes-Im-quite-good-fell-love-enough.html?ns_mchannel=rss&ito=1490&ns_campaign=1490"
+    },
+    {
+      "author": "Tim Lynch",
+      "category": "general",
+      "country": "us",
+      "description": "Photo by Dustin Bradford/Getty Images The Denver Broncos lead the Minnesota Vikings 3-0 after one quarter of play, but the Vikings are knocking on Denver’s door to start the second. The Denver Broncos sent their team captains Russell Wilson, Mike McGlinchey, and Riley Dixon out for the opening coin toss. The Minnesota Vikings lost the opening coin toss and Denver elected to defer to the second half to bring out Josh Dobbs and the Vikings offense to start the game. On the first snap of the game, Dobbs fumbled the snap but was able to secure possession and hand it off to the Alexander Mattison...",
+      "image": null,
+      "language": "en",
+      "published_at": "2023-11-20T01:53:55Z",
+      "source": "milehighreport",
+      "title": "Vikings at Broncos first quarter recap",
+      "url": "https://www.milehighreport.com/2023/11/19/23968423/vikings-vs-broncos-first-quarter-recap"
+    },
+    {
+      "author": "Adam Hill",
+      "category": "general",
+      "country": "us",
+      "description": "Raiders safety Isaiah Pola-Mao had played just 33 snaps on defense before Sunday, but he stepped in for injured Marcus Epps to make several big plays.",
+      "image": null,
+      "language": "en",
+      "published_at": "2023-11-20T01:52:34Z",
+      "source": "lvrj",
+      "title": "Raiders report: Reserve safety makes big plays in relief",
+      "url": "https://www.reviewjournal.com/sports/raiders/raiders-report-reserve-safety-makes-big-plays-in-relief-2943003/"
+    },
+    {
+      "author": "Larry Brown",
+      "category": "general",
+      "country": "us",
+      "description": "The Cleveland Browns are adding a new quarterback to their roster in response to the Deshaun Watson injury, and they&#8217;re going with a former Super Bowl MVP. ESPN reported on Sunday that the Browns are signing Joe Flacco to their practice squad. Flacco is expected to be added to the team&#8217;s active roster. Former Ravens’...The post Ex-Super Bowl MVP signing with Cleveland Browns appeared first on Larry Brown Sports.",
+      "image": null,
+      "language": "en",
+      "published_at": "2023-11-20T01:52:30Z",
+      "source": "larrybrownsports",
+      "title": "Ex-Super Bowl MVP signing with Cleveland Browns",
+      "url": "https://larrybrownsports.com/football/joe-flacco-sign-cleveland-browns-qb/624286"
+    },
+    {
+      "author": "Sam Gordon",
+      "category": "general",
+      "country": "us",
+      "description": "If it&#8217;s apparent from the press box that Raiders coaches have no confidence in Aidan O&#8217;Connell, then surely the rookie quarterback can see it from the sideline.",
+      "image": null,
+      "language": "en",
+      "published_at": "2023-11-20T01:51:33Z",
+      "source": "lvrj",
+      "title": "Gordon: It’s obvious Raiders coaches don’t trust rookie Aidan O’Connell",
+      "url": "https://www.reviewjournal.com/sports/sports-columns/sam-gordon/gordon-its-obvious-raiders-coaches-dont-trust-rookie-aidan-oconnell-2942996/"
+    },
+    {
+      "author": "Natalie Arndt and Karyl Clifford",
+      "category": "general",
+      "country": "us",
+      "description": "Richard Gaillardetz was a world-renowned theologian, but he also made the well-being of his students and colleagues his top priority, according to Stephen Pope. Gaillardetz, former chair of the Boston College theology department, died on Nov. 7, 20 months after he was diagnosed with Stage 4 pancreatic cancer. He was 65.The post “One of the Top Experts on the Church”: Remembering Theology Professor Richard Gaillardetz first appeared on The Heights.The post “One of the Top Experts on the Church”: Remembering Theology Professor Richard Gaillardetz appeared first on The Heights.",
+      "image": null,
+      "language": "en",
+      "published_at": "2023-11-20T01:51:25Z",
+      "source": "bcheights",
+      "title": "“One of the Top Experts on the Church”: Remembering Theology Professor Richard Gaillardetz",
+      "url": "https://www.bcheights.com/2023/11/19/one-of-the-top-experts-on-the-church-remembering-theology-professor-richard-gaillardetz/?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-top-experts-on-the-church-remembering-theology-professor-richard-gaillardetz"
+    },
+    {
+      "author": "Jordan Fabian",
+      "category": "business",
+      "country": "us",
+      "description": "US Says No Israel-Hamas Hostage Deal Yet",
+      "image": null,
+      "language": "en",
+      "published_at": "2023-11-20T01:48:52Z",
+      "source": "Bloomberg | Latest And Live Business",
+      "title": "US Says No Israel-Hamas Hostage Deal Yet",
+      "url": "https://www.bqprime.com/world/us-says-no-israel-hamas-hostage-deal-yet"
+    }
+  ]
+}
