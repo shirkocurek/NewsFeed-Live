@@ -1,3 +1,5 @@
+import ReadMoreButton from "./ReadMoreButton";
+
 type Props = {
   dataEntry: DataEntry;
 };
@@ -23,7 +25,7 @@ function Article({ dataEntry }: Props) {
             <p>{dataEntry.published_at}</p>
           </footer>
         </div>
-        {/* read more */}
+        <ReadMoreButton dataEntry={dataEntry}/>
       </div>
     </article>
   );
