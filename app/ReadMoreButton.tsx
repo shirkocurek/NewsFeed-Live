@@ -7,11 +7,12 @@ type Props = {
 
 function ReadMoreButton({ dataEntry }: Props) {
   const router = useRouter();
+
   const handleClick = () => {
     const queryString = Object.entries(dataEntry)
       .map(([key, value]) => `${key}=${value}`)
       .join("&");
-    const url = `/dataEntry?${queryString}`;
+    const url = `/article?${queryString}`;
     router.push(url);
   };
   return (
