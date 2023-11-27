@@ -1,6 +1,6 @@
 # Welcome to NewsFlowHub
 
-![Alt Text]("/newsflowhub.gif")
+![newsflowhub](https://github.com/shirkocurek/NewsFeed-Live/assets/109438051/20b0c091-2566-4694-8fb8-731a530eee0d)
 
 A full stack Live News app using the MediaStack API. Built using TypeScrip, React, Next.js, Tailwind and a GraphQL API.
 Static and dynamic rendering fully responsive and includes advance ui features like dark mode and next loading component.
